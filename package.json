@@ -1,5 +1,5 @@
 {
-  "name": "docusaurus",
+  "name": "monago-docs",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -27,11 +27,7 @@
     "@docusaurus/module-type-aliases": "2.0.0-beta.20"
   },
   "browserslist": {
-    "production": [
-      ">0.5%",
-      "not dead",
-      "not op_mini all"
-    ],
+    "production": [">0.5%", "not dead", "not op_mini all"],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
