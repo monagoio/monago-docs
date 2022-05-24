@@ -2,6 +2,11 @@
   "name": "monago-docs",
   "version": "0.0.0",
   "private": true,
+  "homepage": "docs.monago.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibidathoillah/monago-docs.git"
+  },
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
