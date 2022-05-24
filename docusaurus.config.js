@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Monago',
+  title: 'Monago.io',
   tagline: 'Build Modern Application in Minutes',
   url: 'https://monago.io',
   baseUrl: '/',
