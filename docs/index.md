@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
+no_edit_button: true
 ---
 
-# Tutorial Intro
+# Introduction
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
