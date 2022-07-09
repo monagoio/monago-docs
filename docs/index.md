@@ -1,48 +1,28 @@
 ---
 sidebar_position: 1
-no_edit_button: true
 ---
 
 # Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Monago is the next generation of APIs management platform which is high-performance, effortless, affordable, and supports cloud-native environments. Save time & money to set up your application and infrastructure. Let developers write function code and frontend code without a headache about infrastructure and perform the integration with 3rd party.
 
-## Getting Started
+## What We Offer
 
-Get started by **creating a new site**.
+#### Design, Build, and Scale APIs in Minutes
+Building new modern applications with REST technology that is easy to scale. We use Kafka technology to build real-time streaming data pipelines and applications that adapt to the data streams. Also, you will save a ton of time, focusing on writing the function code and frontend development by using your preferred framework.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+#### Integration System, Data, and Service Instantly
+Instead of performing integration applications in weeks, Monago helps you automate integration in minutes whether you want to integrate in your existing database, storage, your existing infrastructure and third-party integration.
 
-### What you'll need
+#### Flexible Pricing and Plans
+We know that building modern application with cloud technology environments require high-cost in upfront. By using horizontal scaling, we help you to split workloads between servers to limit the number of requests any individual server is getting.
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## What You Can Do
+When you create an account in Monago, there is todo example how to use the Monago platform. There are two approach to developing modern application with Monago such as:
 
-## Generate a new site
+#### SDK for Backend Code for Developing APIs
+By adding a few line of code in your backend code, you can directly write the function code without managing its infrastructure. Our platform already supports swagger for the documentation of APIs, so you can test your code through the swagger documentation directly. 
 
-Generate a new Docusaurus site using the **classic template**.
+#### SDK for Fullstack Code for Developing Apps
+It is just like using Firebase, you can perform code with full-stack code by using a framework you prefer. In our example, we give an example by using Next.js.
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
