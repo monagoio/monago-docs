@@ -32,3 +32,16 @@
 .theme-doc-footer {
   display:none !important;
 }
+
+.menu__caret:before {
+  content: '';
+  background: var(--ifm-menu-link-sublist-icon) 50% / 1rem 1rem !important;
+  filter: var(--ifm-menu-link-sublist-icon-filter);
+  height: 10px !important;
+  transform: rotate(180deg);
+  width: 10px !important;
+  transition: transform var(--ifm-transition-fast) linear;
+}
+.menu__list {
+  font-size: 14px;
+}
